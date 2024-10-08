@@ -1,2 +1,3 @@
-# Nike_Sales_Analysis
-Perform an in-depth analysis of Nike's sales data, including trend analysis, customer segmentation, and product performance. Leverage data visualisation and predictive modeling to derive actionable business insights and forecast future sales.
+This is the Nike Global Manufacturing Dataset. Originally published by at [Nike Manufacturing](http://manufacturingmap.nikeinc.com/#). It consists of details of Nike manufacturing factories across the world – their locations, factory types, number of workers, female workers, and migrant workers, etc.
+
+A code example with D3, see [VizHub: Basic Scatter Plot](https://vizhub.com/siddhipa/e75567ad58d44564b91fa851ad9e6f3e?edit=files&file=index.html).
